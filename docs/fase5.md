@@ -11,8 +11,6 @@ La aplicación DUOFUT tendrá las siguientes páginas principales:
 * Perfil de usuario
 * Tienda / recompensas
 
-*(Aquí añadir captura del mapa de páginas o esquema hecho a mano o digital)*
-
 ---
 
 ## Estructura de navegación
@@ -28,7 +26,6 @@ Desde la pantalla de inicio el usuario podrá:
 
 Esto permite que el usuario se mueva fácilmente por la app sin complicaciones.
 
-*(Aquí añadir captura o esquema de navegación)*
 
 ---
 
@@ -41,8 +38,6 @@ Las pantallas principales son:
 * Pantalla de inicio
 * Pantalla de pregunta/ejercicio
 * Selección de modo
-
-*(Aquí añadir las imágenes de los wireframes)*
 
 ---
 
@@ -57,5 +52,3 @@ El funcionamiento básico de la aplicación será:
 5. Gana puntos y avanza de nivel
 
 Este flujo es simple para facilitar el aprendizaje progresivo.
-
-*(Aquí añadir diagrama de flujo si hacéis uno)*
